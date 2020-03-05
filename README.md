@@ -1,2 +1,2 @@
 # Hello-family
-Exercise in using the JavaScript 'Switch' statement
+This is a solution to exercise 140 from Andrei Neagoie's ZtM Complete Webdeveloper, section 13 Advanced JavaScript.
